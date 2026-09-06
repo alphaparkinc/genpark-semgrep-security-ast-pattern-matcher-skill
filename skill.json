@@ -1,0 +1,16 @@
+{
+  "name": "genpark-semgrep-security-ast-pattern-matcher-skill",
+  "version": "1.0.0",
+  "description": "AST security pattern matcher for injection vulnerabilities, insecure deserialization, secret leakage, and safe code rewrite synthesis.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "ast",
+    "semgrep",
+    "injection",
+    "deserialization",
+    "genpark",
+    "mcp"
+  ]
+}
